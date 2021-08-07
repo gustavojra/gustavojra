@@ -11,7 +11,8 @@ Chemistry PhD student at the [University of Georgia ](https://www.chem.uga.edu/)
     - Thermodynamics
  
  - Physics
-    - Quantum Mechanics
+    - Modern Physics
+    - Molecular Quantum Mechanics
     - Second Quantization methods
 
  - Computer Science
@@ -19,6 +20,7 @@ Chemistry PhD student at the [University of Georgia ](https://www.chem.uga.edu/)
     - Julia programming language
     - Paralell computing 
     - GPU computing
+    - Automatic differentiation
 
 ### Projects
 
@@ -27,3 +29,5 @@ Chemistry PhD student at the [University of Georgia ](https://www.chem.uga.edu/)
 ### Contact 📨
 
 aroeira at uga.edu
+
+I'm also active on the [JuliaMolSim slack channel!](https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g)
