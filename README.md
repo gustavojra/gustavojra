@@ -1,9 +1,7 @@
-### Welcome 👋
-
 Chemistry PhD student at the [University of Georgia ](https://www.chem.uga.edu/).
 Working at the [Center for Computational Quantum Chemistry](https://github.com/CCQC) under supervision of [Dr. Justin Turney](https://www.chem.uga.edu/directory/people/justin-turney) and [Prof. Henry Schaefer](https://www.chem.uga.edu/directory/people/henry-schaefer)
 
-### Interests
+### Interests 📖
 
 - Chemistry
     - Quantum Chemistry
@@ -23,7 +21,7 @@ Working at the [Center for Computational Quantum Chemistry](https://github.com/C
     - GPU computing
     - Automatic differentiation
 
-### Projects
+### Projects 💻
 
 * [Fermi](https://github.com/FermiQC/Fermi.jl): Quantum chemistry package
 
