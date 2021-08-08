@@ -19,7 +19,7 @@ Working at the [Center for Computational Quantum Chemistry](https://github.com/C
  - Computer Science
     - High performance computing
     - Julia programming language
-    - Paralell computing 
+    - Parallel computing 
     - GPU computing
     - Automatic differentiation
 
