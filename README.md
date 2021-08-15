@@ -23,7 +23,10 @@ Working at the [Center for Computational Quantum Chemistry](https://github.com/C
 
 ### Projects 💻
 
-* [Fermi](https://github.com/FermiQC/Fermi.jl): Quantum chemistry package
+* [Fermi](https://github.com/FermiQC/Fermi.jl): Quantum chemistry package.
+* [Molecules](https://github.com/FermiQC/Molecules.jl): A package to manipulate Cartesian coordinates and compute molecular properties.
+* [GaussianBasis](https://github.com/FermiQC/GaussianBasis.jl): A basis set manager.
+* [Alchemy](https://github.com/gustavojra/Alchemy.jl): A simple plotting tool for molecular structures.
 
 ### Contact 📨
 
