@@ -1,3 +1,5 @@
+Post doctoral research fellow in the [Ribeiro group](https://ribeiro.emorychem.science/) at Emory University.
+
 
 ### Interests 📖
 
