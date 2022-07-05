@@ -15,8 +15,6 @@
  - Computer Science
     - High performance computing
     - Julia programming language
-    - Parallel computing 
-    - GPU computing
     - Automatic differentiation
 
 ### Projects 💻
@@ -28,6 +26,6 @@
 
 ### Contact 📨
 
-aroeira at uga.edu
+gustavo.aroeira at emory.edu
 
 I'm also active on the [JuliaMolSim slack channel!](https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g)
