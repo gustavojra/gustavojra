@@ -1,4 +1,4 @@
-Post doctoral research fellow in the [Ribeiro group](https://ribeiro.emorychem.science/) at Emory University.
+Assistant Professor of Computational Chemistry at Hofstra University.
 
 
 ### Interests 📖
@@ -41,4 +41,4 @@ Other resources:
 
 ### Contact 📨
 
-gustavo.aroeira at emory.edu
+Gustavo.RibeiroAroeira at hofstra.edu
